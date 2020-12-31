@@ -1,0 +1,22 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+section,
+footer {
+    padding: 10px 0;
+    bottom: auto;
+}
